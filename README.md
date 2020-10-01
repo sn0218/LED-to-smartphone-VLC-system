@@ -13,3 +13,5 @@ The VLC system is designed for text transmission in which LED and Smartphone cam
 This combination of light source and sensor constructing VLC link is likely to offer the most convenient VLC link in real world because it is adaptive and fit in existing infrastructure The communication channel was configured in Direct LOS in the VLC system such that the receiver is directly facing the transmitter. 
 The Direct LOS configuration ensures there is enough light intensity received by the smartphone camera to create stable communication for indoor use even though there is limited mobility of transmitter and receiver.
 
+![image](https://user-images.githubusercontent.com/48129546/94846764-3fdacd00-0454-11eb-8ce3-ae4df6417302.png)
+
