@@ -29,3 +29,4 @@ The VLC receiver application is able to utilize the smartphone camera to capture
 An app created with OpenCV to analyse data emitted from a LED light bulb. This app can use the devices camera to convert the data from the LED light bulb into text.
 
 ![image](https://user-images.githubusercontent.com/48129546/94847412-21c19c80-0455-11eb-9d70-31c4d219b888.png)
+![image](https://user-images.githubusercontent.com/48129546/94851147-9ea34500-045a-11eb-98b2-f42e07434ea7.png)
