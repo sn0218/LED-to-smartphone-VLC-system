@@ -24,3 +24,6 @@ The transmitter incorporates a microcontroller mounted on Arduino DUE and LED dr
 
 # Receiver
 
+The VLC receiver application is able to utilize the smartphone camera to capture consecutive frames to extract the transmitted data bits in light signal in each frame by using OpenCV Library.
+
+![image](https://user-images.githubusercontent.com/48129546/94847412-21c19c80-0455-11eb-9d70-31c4d219b888.png)
