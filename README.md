@@ -18,7 +18,8 @@ The Direct LOS configuration ensures there is enough light intensity received by
 
 # Transmitter
 
-The transmitter incorporates a microcontroller mounted on Arduino DUE and LED driver circuit with a low power 3mm diameter white LED, PN2222 transistor and other electronic components .
+The transmitter incorporates a microcontroller mounted on Arduino DUE and LED driver circuit with a low power 3mm diameter white LED, PN2222 transistor and other electronic components.
+
 ![image](https://user-images.githubusercontent.com/48129546/94847156-cabbc780-0454-11eb-901c-a90f6570cfc6.png)
 
 # Receiver
