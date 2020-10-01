@@ -1,0 +1,64 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.myapplicationopencv"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="14"
+8-->C:\Users\sn023\AndroidStudioProjects\MyApplicationOpenCV\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\sn023\AndroidStudioProjects\MyApplicationOpenCV\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->C:\Users\sn023\AndroidStudioProjects\MyApplicationOpenCV\app\src\main\AndroidManifest.xml:5:5-65
+11-->C:\Users\sn023\AndroidStudioProjects\MyApplicationOpenCV\app\src\main\AndroidManifest.xml:5:22-62
+12
+13    <uses-feature android:name="android.hardware.camera" />
+13-->C:\Users\sn023\AndroidStudioProjects\MyApplicationOpenCV\app\src\main\AndroidManifest.xml:6:5-60
+13-->C:\Users\sn023\AndroidStudioProjects\MyApplicationOpenCV\app\src\main\AndroidManifest.xml:6:19-57
+14    <uses-feature android:name="android.hardware.camera.autofocus" />
+14-->C:\Users\sn023\AndroidStudioProjects\MyApplicationOpenCV\app\src\main\AndroidManifest.xml:7:5-69
+14-->C:\Users\sn023\AndroidStudioProjects\MyApplicationOpenCV\app\src\main\AndroidManifest.xml:7:19-67
+15    <uses-feature android:name="android.hardware.camera.front" />
+15-->C:\Users\sn023\AndroidStudioProjects\MyApplicationOpenCV\app\src\main\AndroidManifest.xml:8:5-65
+15-->C:\Users\sn023\AndroidStudioProjects\MyApplicationOpenCV\app\src\main\AndroidManifest.xml:8:19-63
+16    <uses-feature android:name="android.hardware.camera.front.autofocus" />
+16-->C:\Users\sn023\AndroidStudioProjects\MyApplicationOpenCV\app\src\main\AndroidManifest.xml:9:5-75
+16-->C:\Users\sn023\AndroidStudioProjects\MyApplicationOpenCV\app\src\main\AndroidManifest.xml:9:19-73
+17
+18    <application
+18-->C:\Users\sn023\AndroidStudioProjects\MyApplicationOpenCV\app\src\main\AndroidManifest.xml:12:5-26:19
+19        android:allowBackup="true"
+19-->C:\Users\sn023\AndroidStudioProjects\MyApplicationOpenCV\app\src\main\AndroidManifest.xml:13:9-35
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.1.0] C:\Users\sn023\.gradle\caches\transforms-2\files-2.1\e9dab9c67c1ee3668e0bbf86c6d8cbd8\core-1.1.0\AndroidManifest.xml:24:18-86
+21        android:debuggable="true"
+22        android:icon="@mipmap/ic_launcher"
+22-->C:\Users\sn023\AndroidStudioProjects\MyApplicationOpenCV\app\src\main\AndroidManifest.xml:14:9-43
+23        android:label="VLC Receiver"
+23-->C:\Users\sn023\AndroidStudioProjects\MyApplicationOpenCV\app\src\main\AndroidManifest.xml:15:9-37
+24        android:roundIcon="@mipmap/ic_launcher_round"
+24-->C:\Users\sn023\AndroidStudioProjects\MyApplicationOpenCV\app\src\main\AndroidManifest.xml:16:9-54
+25        android:supportsRtl="true"
+25-->C:\Users\sn023\AndroidStudioProjects\MyApplicationOpenCV\app\src\main\AndroidManifest.xml:17:9-35
+26        android:testOnly="true"
+27        android:theme="@style/AppTheme" >
+27-->C:\Users\sn023\AndroidStudioProjects\MyApplicationOpenCV\app\src\main\AndroidManifest.xml:18:9-40
+28        <activity android:name="com.example.myapplicationopencv.MainActivity" >
+28-->C:\Users\sn023\AndroidStudioProjects\MyApplicationOpenCV\app\src\main\AndroidManifest.xml:19:9-25:20
+28-->C:\Users\sn023\AndroidStudioProjects\MyApplicationOpenCV\app\src\main\AndroidManifest.xml:19:19-47
+29            <intent-filter>
+29-->C:\Users\sn023\AndroidStudioProjects\MyApplicationOpenCV\app\src\main\AndroidManifest.xml:20:13-24:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->C:\Users\sn023\AndroidStudioProjects\MyApplicationOpenCV\app\src\main\AndroidManifest.xml:21:17-69
+30-->C:\Users\sn023\AndroidStudioProjects\MyApplicationOpenCV\app\src\main\AndroidManifest.xml:21:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->C:\Users\sn023\AndroidStudioProjects\MyApplicationOpenCV\app\src\main\AndroidManifest.xml:23:17-77
+32-->C:\Users\sn023\AndroidStudioProjects\MyApplicationOpenCV\app\src\main\AndroidManifest.xml:23:27-74
+33            </intent-filter>
+34        </activity>
+35    </application>
+36
+37</manifest>
